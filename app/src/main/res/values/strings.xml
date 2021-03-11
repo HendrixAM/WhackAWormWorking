@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhackAWormWorking</string>
+    <string name="timer">60</string>
+    <string name="score">0</string>
+    <string name="passed_level">You Passed The Level!</string>
+    <string name="failed_level">You Failed The Level!</string>
+    <string name="next_level">Next Level</string>
+    <string name="retry">Retry</string>
+</resources>
